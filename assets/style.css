@@ -52,4 +52,7 @@
          height: 100%;
          width: 100%;
       }
+      .cartao__conteudo__reposta{
+         transform: rotateY(180deg);
+      }
       
