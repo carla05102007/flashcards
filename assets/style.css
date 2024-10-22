@@ -1,5 +1,5 @@
 body {
-   background-color: rgb(227, 231, 17);
+   background-color: rgb(77, 4, 173);
    font-family: 'Bai Jamjuree', sans-serif;
    }
    
@@ -22,7 +22,7 @@ body {
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
-   }
+   }1
    
    .cartao {
    margin: 1rem;
